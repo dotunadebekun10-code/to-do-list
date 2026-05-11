@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className='min-h-screen w-full flex items-center justify-center p-6 bg-[#0f172a]'>
-      <div className='w-full max-w-md p-8 rounded-2xl bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl transition-all duration-300 hover:shadow-blue-500/10'>
+      <div className='w-full max-w-md mx-auto p-8 rounded-2xl bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl transition-all duration-300 hover:shadow-blue-500/10'>
         <h1 className='text-4xl font-extrabold mb-8 bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent'>
           Tasks
         </h1>
